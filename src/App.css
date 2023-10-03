@@ -40,3 +40,12 @@
   background-color: #567ece;
  }
 
+ .link {
+  text-decoration: none;
+  color: white;
+ }
+
+ .link:hover {
+  background-color: #567ece;
+ }
+

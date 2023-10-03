@@ -9,16 +9,16 @@ function Footer(){
             <div className="col-md-2"></div>
             <div className="col-md-3">
               <p className ="h1 primary-text">Zane ThummBorst</p>
-              <p className ="mt-3 secondary-text">Heres to the future, whenever it comes.</p>
+              <p className ="mt-3 secondary-text">Always moving forward.</p>
               </div>
               <div className="col-md-1"> </div> 
-            <div className="col-md-4 ">
+            <div className="col-md-5 ">
             <p className ="h1 primary-text">Portfolio Techstack:</p>
             <ul className="mt-3 list-group list-group-horizontal-lg">
-              <li className="list-group-item">Nodejs/ NPM</li>
-              <li className="list-group-item">React + additional React libraries</li>
-              <li className="list-group-item">Bootstrap 5</li>
-              <li className="list-group-item">animation library (TBD)</li>
+              <li className="list-group-item navstyle">Nodejs/ NPM</li>
+              <li className="list-group-item navstyle">React + React libraries</li>
+              <li className="list-group-item navstyle">Bootstrap 5</li>
+              <li className="list-group-item navstyle">React Spring</li>
             </ul>
             <div className="col-md-2"></div>
             </div>

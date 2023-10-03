@@ -12,7 +12,7 @@ function Navbar(){
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-          <Link to="home" spy={true} smooth={true}><a className="nav-link tertiary rounded"  href="">Home</a></Link>
+          <Link to="home" spy={true} delay={0}><a className="nav-link tertiary rounded"  href="">Home</a></Link>
             </li>
             <li className="nav-item">
               <a className="nav-link tertiary rounded " target="_blank" href="https://github.com/Zane-ThummBorst">GitHub</a>

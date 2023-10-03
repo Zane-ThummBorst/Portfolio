@@ -16,7 +16,7 @@ function Contact() {
         <div className="col-md-2"></div>
         <div className="col-md-8">
         <p className = "display-2 text-center primary-text">Current Status: I'm Available!</p>
-        <p className = "h2 text-center primary-text mt-3">If you want to talk, ask me anything, or want to get into an employment opportunity, just shoot me a message!</p>
+        <p className = "h2 text-center primary-text mt-3">If you want to talk, ask me anything, or have an employment opportunity you think I'd be interested in (No doubt I will), here's my info:</p>
         <p className = "h4 text-center secondary-text mt-5">Email: thummborstz@gmail.com</p>
           </div>
         <div className="col-md-2"></div>
