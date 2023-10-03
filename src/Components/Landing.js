@@ -55,7 +55,7 @@ import { useSpring, animated, useInView, config } from 'react-spring';
       </animated.div>
       
       <animated.div ref={ref2} style = {slideRL} className = "col-md-5 rounded-5">
-      <p className="display-1 primary-text fw-bold">Heres the Deal</p>
+      <p className="display-1 primary-text fw-bold">Here's the Deal</p>
         <p className="display-1 primary-text fw-bold">About Me.</p>
       </animated.div>
       </div>  
