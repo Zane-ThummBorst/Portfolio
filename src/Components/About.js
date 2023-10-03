@@ -49,7 +49,7 @@ function About() {
           current roster data and stats for most (if not all) MLB players by season. It also stands as my first Django project that
           I've continuely dedicated time to.
         </p>
-        <a className="link border mx-auto p-1 rounded" href="https://github.com/Zane-ThummBorst/MLBstats">Want to See more?</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Zane-ThummBorst/MLBstats">Want to See more?</a>
       </div>
     </div>
     <div className="card shadow navstyle border-2 mt-3">
@@ -61,7 +61,7 @@ function About() {
           4 other friends.  My personal takeaways that I remeber from this project was gathering a better understanding of client-side server-side communication,
           routing Organization, jquery, and DOM manipulation.
         </p>
-        <a className="link border mx-auto p-1 rounded" href="https://github.com/MspMarik/myway">Want to See more?</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/MspMarik/myway">Want to See more?</a>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ function About() {
         <p className="secondary-text">This was a long time coming, but I'm still proud of the creation of this portfolio as it gave me a chance to really think about
           how I approach frontend design.
         </p>
-        <a className="link border mx-auto p-1 rounded" href="https://github.com/Zane-ThummBorst/Portfolio">You're already looking it at, but heres a to the github anyway!</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Zane-ThummBorst/Portfolio">You're already looking it at, but heres a to the github anyway!</a>
       </div>
     </div>
     <div className="card border-2 navstyle shadow mt-3">
@@ -84,7 +84,7 @@ function About() {
           far I've come in my journey. The goal of Duck attractions was to rate the nearby locations close to our college campus. It served as
           my introduction for how CSS and HTML worked, and taught me the importance of responsive design philoshphy.
         </p>
-        <a className="link border mx-auto p-1 rounded" href="https://github.com/Zane-ThummBorst/WebDev-HTML-CSS-JS-/tree/main/DuckAttractions">Want to See more?</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Zane-ThummBorst/WebDev-HTML-CSS-JS-/tree/main/DuckAttractions">Want to See more?</a>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ function About() {
         <p className="secondary-text">Project in group of 5 using Agile methodologies to create a series of functions and usecases to parse a family tree file(GEDCOM). Some valuable take aways:
           experience using agile methods, experience implementing unit testing, great oppurtunity to see how others code.
         </p>
-        <a className="link border mx-auto p-1 rounded" href="https://github.com/Ankit5467/cs555tm132022Fall">Want to see more?</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Ankit5467/cs555tm132022Fall">Want to see more?</a>
       </div>
     </div>
     <div className="card border-2 navstyle shadow mt-3">
