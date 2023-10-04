@@ -146,7 +146,7 @@ function Dude(){
                       <p class="bg-light border m-2 p-2 rounded"> MongoDB </p>
                       <p class="bg-light border m-2 p-2 rounded"> noSQL </p>
                       <p class="bg-light border m-2 p-2 rounded"> Git/Github </p>
-                      <p class="bg-light border m-2 p-2 rounded"> RJQuery </p>
+                      <p class="bg-light border m-2 p-2 rounded"> JQuery </p>
                       <p class="bg-light border m-2 p-2 rounded"> SASS </p>
                       <p class="bg-light border m-2 p-2 rounded"> Material UI</p>
                     </div>
