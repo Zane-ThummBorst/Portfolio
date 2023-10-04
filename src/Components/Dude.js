@@ -56,7 +56,7 @@ function Dude(){
         <div className ="row">
           <div className =" col-md-2"></div>
           <animated.div ref={ref} style={slideLR} className =" col-md-4">
-            <p className="display-6 text-center primary-text">This is the dude I am</p>
+            <p className="display-6 text-center primary-text">A Little About Me:</p>
             <p className= "secondary-text">&emsp; A little bit about me, I am currently a recent graduate from Stevens Institute of 
             Technology, and work as a part time tutor for Computer Science topics and programming. On the side, you can catch me 
             trying to keep up with developer communities in technologies I’m interested in, as well as the latest news in random 

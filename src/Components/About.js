@@ -58,7 +58,7 @@ function About() {
         <p className="h3 card-title primary-text">MyWay</p>
         <p className="secondary-text"> MyWay is one of my first web apps that I've ever helped complete using NodeJS. The goal of this project was to create
            a music, artist, and album rating app using Node, MongoDB, and ExpressJS. It was an end of the semester project that I made with
-          4 other friends.  My personal takeaways that I remeber from this project was gathering a better understanding of client-side server-side communication,
+          4 other friends.  My personal takeaways that I remember from this project was gathering a better understanding of client-side server-side communication,
           routing Organization, jquery, and DOM manipulation.
         </p>
         <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/MspMarik/myway">Want to See more?</a>
@@ -73,7 +73,7 @@ function About() {
         <p className="secondary-text">This was a long time coming, but I'm still proud of the creation of this portfolio as it gave me a chance to really think about
           how I approach frontend design.
         </p>
-        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Zane-ThummBorst/Portfolio">You're already looking it at, but heres a to the github anyway!</a>
+        <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Zane-ThummBorst/Portfolio">You're already looking it at, but here's a to the github anyway!</a>
       </div>
     </div>
     <div className="card border-2 navstyle shadow mt-3">
@@ -93,7 +93,7 @@ function About() {
       <div className="card-body d-grid">
         <img src={gedcom_snap} className="card-img-top img-fluid" alt="Project Photo"/>
         <p className="h3 card-title primary-text">GEDCOM Parser Project</p>
-        <p className="secondary-text">Project in group of 5 using Agile methodologies to create a series of functions and usecases to parse a family tree file(GEDCOM). Some valuable take aways:
+        <p className="secondary-text">Project developed in group of 5 using Agile methodologies to create a series of functions and usecases to parse a family tree file(GEDCOM). Some valuable take aways:
           experience using agile methods, experience implementing unit testing, great oppurtunity to see how others code.
         </p>
         <a className="link border mx-auto p-1 rounded" target="_blank" href="https://github.com/Ankit5467/cs555tm132022Fall">Want to see more?</a>
